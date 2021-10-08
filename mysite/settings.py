@@ -25,7 +25,7 @@ SECRET_KEY = '*cyr#(()3d49e_-ct+h5n#%!!#fm%)kuzf6+mq6y^pok)y^9a*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'majestictree.pythonanywhere.com']
 
 
 # Application definition
